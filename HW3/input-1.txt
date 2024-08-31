@@ -1,0 +1,5 @@
+var one, two;
+begin
+	one := two * 2;
+    two := two * 1;
+end

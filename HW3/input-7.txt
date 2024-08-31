@@ -1,0 +1,5 @@
+var x, y, z;
+const b = 10;
+begin
+    h := y + z;
+end.

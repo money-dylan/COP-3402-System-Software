@@ -1,0 +1,5 @@
+const x 1234;
+var x, y, z;
+begin
+    x := y + z;
+end.

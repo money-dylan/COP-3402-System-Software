@@ -1,0 +1,5 @@
+var x, y, z;
+const b = 10;
+begin
+    if x = y fi;
+end.

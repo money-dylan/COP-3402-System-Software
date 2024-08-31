@@ -1,0 +1,4 @@
+const;
+begin
+    x := y;
+end.
